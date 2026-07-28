@@ -5,7 +5,7 @@
   <a href="https://next-js-portfolio-two-pearl.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/erannadeera20/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://menswebdesign.com/" target="_blank"><img src="https://img.shields.io/badge/Website-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:menshantha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:menswebdesign@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
