@@ -71,7 +71,7 @@ I'm a passionate **Creative Web Developer** with 6+ years of experience crafting
 
 ### 📫 How to Reach Me
 
-- 📧 **Email:** menshantha@gmail.com
+- 📧 **Email:** menswebdesign@gmail.com
 - 💼 **LinkedIn:** [erannadeera20](https://www.linkedin.com/in/erannadeera20/)
 - 🌐 **Portfolio:** [next-js-portfolio-two-pearl.vercel.app](https://next-js-portfolio-two-pearl.vercel.app)
 - 🖥️ **Website:** [menswebdesign.com](https://menswebdesign.com/)
